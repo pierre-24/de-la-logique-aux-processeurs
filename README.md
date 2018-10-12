@@ -1,9 +1,9 @@
 Ceci est l'ensemble des images que j'ai réalisés pour mon tutoriel "[De la logique aux processeurs](https://zestedesavoir.com/tutoriels/2256/de-la-logique-aux-processeurs/)", publié sur Zeste de Savoir (http://zestedesavoir.com).
 
-- [`TeX_circuits.tex`](./TeX_circuits.tex) est l'ensemble des circuits, réalisés à l'aide de [circuitikz](http://texdoc.net/texmf-dist/doc/latex/circuitikz/circuitikzmanual.pdf) ;
+- [`TeX_circuits.tex`](./TeX_circuits.tex) est l'ensemble des circuits, réalisés à l'aide de [circuitikz](http://texdoc.net/texmf-dist/doc/latex/circuitikz/circuitikzmanual.pdf), et présent dans la plupart des chapitres (à partir du troisième) ;
 - [`TeX_karnaugh_7segs.tex`](./TeX_karnaugh_7segs.tex) reprend les maps de Karnaugh et les afficheurs 7 segments employés dans le second chapitre ;
-- [`Transistors.odg`](./Transistors.odg) reprend les différents dessins réalisés pour expliquer les semi-conducteurs et les transistors qui en résultent (format [LibreOffice](https://www.libreoffice.org/)).
+- [`Transistors.odg`](./Transistors.odg) reprend les différents dessins réalisés pour expliquer les semi-conducteurs et les transistors qui en résultent, présents dans le chapitre 3 (fichier au format [LibreOffice](https://www.libreoffice.org/)).
 
 Distribué sous licence CC-BY-NC.
 
-*Pierre Beaujean, 12 octobre 2018*
+*Pierre Beaujean, dernière modification le 12 octobre 2018*
