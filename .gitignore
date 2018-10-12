@@ -1,0 +1,26 @@
+# LaTeX stuffs:
+*.aux
+*.ist
+*.log
+*.out
+*.pdf
+*.glg
+*.glo
+*.gls
+*.glsdefs
+*.gz
+*.thm
+*.toc
+*.xdy
+*.bbl
+*.blg
+_minted*
+*converted-to*
+
+# Other craps:
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+*.*~
